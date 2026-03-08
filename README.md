@@ -20,7 +20,6 @@
 ![Async](https://img.shields.io/badge/Async-asyncio%20%2B%20anyio-4B8BBE?style=flat-square)
 ![Tests](https://img.shields.io/badge/Tests-pytest--asyncio-0A9EDC?style=flat-square)
 ![Typed](https://img.shields.io/badge/Typed-mypy%20strict-2ECC71?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 
 </div>
 
@@ -395,12 +394,6 @@ This platform directly supports the following GRC activities:
 - **Secret values** are never transmitted to the Anthropic API (redacted at pattern-match time)
 - **`.env` is gitignored** — only `.env.example` with placeholders is committed
 - Run `bandit -r src/` for SAST scanning (included in CI)
-
----
-
-## License
-
-MIT — see [LICENSE](LICENSE).
 
 ---
 
