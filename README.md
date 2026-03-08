@@ -383,7 +383,7 @@ This platform directly supports the following GRC activities:
 - [ ] SIEM export (Splunk HEC, Elastic, Sentinel)
 - [ ] Shodan + Censys live recon
 - [ ] Tenable / Qualys vulnerability feed ingestion
-- [ ] Multi-tenant organisation support
+- [ ] Multi-tenant organization support
 
 ---
 
